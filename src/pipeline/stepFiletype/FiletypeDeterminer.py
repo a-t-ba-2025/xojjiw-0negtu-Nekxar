@@ -24,7 +24,6 @@ class FiletypeDeterminer:
     def __exit__(self, exc_type, exc_val, exc_tb):
         if self.log:
             print(f"# [Pipeline] [{self.__class__.__name__}] completed: {self.upload_file}")
-            print('- - -')
 
     def run(self):
         # get absolute file path and extension
