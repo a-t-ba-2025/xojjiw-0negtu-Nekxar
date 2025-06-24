@@ -75,6 +75,11 @@ Make sure all dependencies are installed:
 pip install -r requirements.txt
 ```
 
+The `main.py` file is the entry point of the project. It loads all available files from the `INPUT_PATH` directory (as configured via `.env`) and processes them through the pipeline. Alternatively, a list of specific files can be passed to restrict the execution to selected documents.
+
+---
+
+
 ## Configuration
 
 The `.env` file can be used to configure paths, models, debug modes, and more.
