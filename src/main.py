@@ -28,7 +28,7 @@ def main():
     all_files = os.listdir(input_folder)
 
     # add specific name(s) of file(s) of the input_folder to array below, otherwise all files of input_folder will be processed
-    target_files = ['png_1.pdf']
+    target_files = ['png_1.png']
 
     if len(target_files) == 0:
         process_files = all_files
