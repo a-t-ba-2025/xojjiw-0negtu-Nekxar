@@ -35,8 +35,24 @@ def main():
     else:
         process_files = [file for file in all_files if file in target_files]
 
+    # Allow only supported file types
+    allowed_extensions = {'.pdf', '.png', '.jpg', '.jpeg'}
+    valid_files = []
+
+    for file in process_files:
+        name, ext = os.path.splitext(file)
+        ext = ext.lower()
+        if ext in allowed_extensions and name:  # name check ensures no files like '.jpeg' only
+            valid_files.append(file)
+        else:
+            print(f"[WARNING] File '{file}' is invalid or has an unsupported extension and will be skipped.")
+
+    if not valid_files:
+        print("[WARNING] No valid files found for processing.")
+        return
+
     start_time = time.time()
-    for file in tqdm(process_files):
+    for file in tqdm(valid_files):
         print(f"\n")
         with Pipeline(file, log=is_logging, dev_mode=is_dev_mode) as pipeline:
             pipeline.run(
