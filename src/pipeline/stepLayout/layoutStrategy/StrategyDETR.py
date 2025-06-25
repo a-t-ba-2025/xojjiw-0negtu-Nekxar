@@ -22,6 +22,9 @@ class StrategyDETR(AbstractStrategyLayout):
             os.getenv('DETR_LAYOUT'),
             "detr_epoch_32.pth"
         )
+        self.layout_model_processor_path = os.path.join(
+            os.getenv('DETR_PROCESSOR')
+        )
 
         # Load model and processor
         self.model, self.processor = self.load_model()
@@ -42,7 +45,7 @@ class StrategyDETR(AbstractStrategyLayout):
         }
 
     def load_model(self):
-        processor_path = os.path.join(os.path.dirname(self.layout_model_path), "processor")
+        processor_path = self.layout_model_processor_path
         processor = DetrImageProcessor.from_pretrained(processor_path)
 
         # Load model configuration with the number of labels (11)
