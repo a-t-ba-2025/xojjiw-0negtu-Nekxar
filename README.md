@@ -92,6 +92,7 @@ TESSERACT_CMD=path\to\tesseract.exe
 TEXT_MODEL=path/to/text_models
 FASTERCRNN_LAYOUT=path/to/layout_models/FasterRCNN
 DETR_LAYOUT=path/to/layout_models/DETR
+DETR_PROCESSOR=path/to/layout_models/DETR-processor
 FLAIR_CONTENT=path/to/content_models/Flair/ner-german-large.pt
 
 # Resources
@@ -112,7 +113,8 @@ Each variable defines:
 - `TESSERACT_CMD`: Path to your local Tesseract OCR executable
 - `TEXT_MODEL`: Path to text-model for identifying text-rich or layout-rich documents
 - `FASTERCRNN_LAYOUT`: Path to layout-model Faster-R-CNN 
-- `DETR_LAYOUT`: Path to layout-model Faster DETR
+- `DETR_LAYOUT`: Path to layout-model DETR
+- `DETR_PROCESSOR`  Path to DETR-Processor
 - `FLAIR_CONTENT`: Path to text-model for identifying text-rich or layout-rich documents
 - `SYM_DICT_PATH`: Path to German dictionary for typo correction
 - `*_PATH`: Defines input, intermediate, and output locations for pipeline steps
