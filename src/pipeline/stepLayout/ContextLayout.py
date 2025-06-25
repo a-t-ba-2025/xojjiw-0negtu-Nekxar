@@ -1,6 +1,8 @@
 from ..AbstractContext import AbstractContext
 from src.pipeline.stepLayout.postprocessor.LayoutPostprocessor import LayoutPostprocessor
 from .layoutStrategy.StrategyFRCNN import StrategyFRCNN
+from .layoutStrategy.StrategyDETR import StrategyDETR
+from .layoutStrategy.StrategyHybridFRCNN_DETR import StrategyHybridFRCNN_DETR
 from .layoutStrategy.StrategyPDF import StrategyPDF
 
 
