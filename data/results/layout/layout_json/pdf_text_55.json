@@ -1,0 +1,454 @@
+{
+  "Table": [],
+  "Caption": [],
+  "Footnote": [],
+  "Formula": [],
+  "List-item": [],
+  "Page-footer": [],
+  "Page-header": [],
+  "Section-header": [
+    {
+      "rows": [
+        [
+          {
+            "text": "1. Geltungsbereich  ",
+            "bbox": [
+              70.824,
+              104.65927999999997,
+              193.82012,
+              118.69928000000004
+            ]
+          }
+        ]
+      ],
+      "bbox": [
+        70.824,
+        104.65927999999997,
+        193.82012,
+        118.69928000000004
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "2. Vertragsgegenstand und Leistungsbeschreibung  ",
+            "bbox": [
+              70.824,
+              276.16927999999996,
+              392.56012,
+              290.20928000000004
+            ]
+          }
+        ]
+      ],
+      "bbox": [
+        70.824,
+        276.16927999999996,
+        392.56012,
+        290.20928000000004
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "3. Vertragsschluss  ",
+            "bbox": [
+              70.824,
+              464.70928,
+              189.86012,
+              478.74927999999994
+            ]
+          }
+        ]
+      ],
+      "bbox": [
+        70.824,
+        464.70928,
+        189.86012,
+        478.74927999999994
+      ]
+    },
+    {
+      "rows": [
+        [
+          {
+            "text": "4. Preise und Zahlungsbedingungen  ",
+            "bbox": [
+              70.824,
+              636.21928,
+              298.58012,
+              650.25928
+            ]
+          }
+        ]
+      ],
+      "bbox": [
+        70.824,
+        636.21928,
+        298.58012,
+        650.25928
+      ]
+    }
+  ],
+  "Text": [],
+  "Title": [
+    {
+      "rows": [
+        [
+          {
+            "text": "Allgemeine Geschäftsbedingungen (AGB)  ",
+            "bbox": [
+              70.824,
+              74.3607199999999,
+              371.82988,
+              90.32071999999994
+            ]
+          }
+        ]
+      ],
+      "bbox": [
+        70.824,
+        74.3607199999999,
+        371.82988,
+        90.32071999999994
+      ]
+    }
+  ],
+  "unmatched": [
+    {
+      "rows": "Allgemeine Geschäftsbedingungen (AGB)  ",
+      "bbox": [
+        70.824,
+        74.3607199999999,
+        371.82988,
+        90.32071999999994
+      ]
+    },
+    {
+      "rows": "1. Geltungsbereich  ",
+      "bbox": [
+        70.824,
+        104.65927999999997,
+        193.82012,
+        118.69928000000004
+      ]
+    },
+    {
+      "rows": "Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Verträge, die zwischen ",
+      "bbox": [
+        70.824,
+        131.92399999999998,
+        513.7919999999999,
+        143.92399999999998
+      ]
+    },
+    {
+      "rows": "der Kreusel KGaA, ansässig in der Philipp-Noack-Allee 767, 69641 Kleve, Kroatien, und ",
+      "bbox": [
+        70.824,
+        148.96399999999994,
+        515.416,
+        160.96399999999994
+      ]
+    },
+    {
+      "rows": "ihren Kunden abgeschlossen werden. Maßgeblich ist die jeweils zum Zeitpunkt des ",
+      "bbox": [
+        70.824,
+        165.88400000000001,
+        497.01599999999996,
+        177.88400000000001
+      ]
+    },
+    {
+      "rows": "Vertragsschlusses gültige Fassung. Abweichende Bedingungen des Kunden finden keine ",
+      "bbox": [
+        70.824,
+        182.80399999999997,
+        524.2080000000003,
+        194.80399999999997
+      ]
+    },
+    {
+      "rows": "Anwendung, es sei denn, die Kreusel KGaA stimmt ihrer Geltung ausdrücklich schriftlich ",
+      "bbox": [
+        70.824,
+        199.84399999999994,
+        524.9920000000001,
+        211.84399999999994
+      ]
+    },
+    {
+      "rows": "zu. Kunden im Sinne dieser AGB sind sowohl Verbraucher als auch Unternehmer. Die ",
+      "bbox": [
+        70.824,
+        216.764,
+        507.1680000000002,
+        228.764
+      ]
+    },
+    {
+      "rows": "AGB gelten unabhängig davon, ob der Vertrag telefonisch, schriftlich oder über die ",
+      "bbox": [
+        70.824,
+        233.83399999999995,
+        493.5000000000002,
+        245.83399999999995
+      ]
+    },
+    {
+      "rows": "Internetseite https://www.fliegner.de/ abgeschlossen wurde.  ",
+      "bbox": [
+        70.824,
+        250.75400000000002,
+        384.58599999999996,
+        262.754
+      ]
+    },
+    {
+      "rows": "2. Vertragsgegenstand und Leistungsbeschreibung  ",
+      "bbox": [
+        70.824,
+        276.16927999999996,
+        392.56012,
+        290.20928000000004
+      ]
+    },
+    {
+      "rows": "Die Kreusel KGaA bietet ihren Kunden Dienstleistungen im Bereich digitaler ",
+      "bbox": [
+        70.824,
+        303.554,
+        457.428,
+        315.554
+      ]
+    },
+    {
+      "rows": "Informationsverarbeitung sowie die Entwicklung individueller Softwarelösungen an. Der ",
+      "bbox": [
+        70.824,
+        320.47399999999993,
+        522.1800000000002,
+        332.47399999999993
+      ]
+    },
+    {
+      "rows": "genaue Leistungsumfang ergibt sich aus den jeweiligen vertraglichen Vereinbarungen, ",
+      "bbox": [
+        70.824,
+        337.51399999999995,
+        512.9280000000001,
+        349.51399999999995
+      ]
+    },
+    {
+      "rows": "insbesondere den Projektbeschreibungen, Leistungsangeboten oder schriftlichen ",
+      "bbox": [
+        70.824,
+        354.43399999999997,
+        491.74399999999997,
+        366.43399999999997
+      ]
+    },
+    {
+      "rows": "Auftragsbestätigungen. Technische Änderungen, die der Weiterentwicklung dienen oder ",
+      "bbox": [
+        70.824,
+        371.354,
+        522.7920000000001,
+        383.354
+      ]
+    },
+    {
+      "rows": "durch gesetzliche Anforderungen notwendig werden, bleiben vorbehalten. Sämtliche ",
+      "bbox": [
+        70.824,
+        388.39399999999995,
+        507.9120000000001,
+        400.39399999999995
+      ]
+    },
+    {
+      "rows": "Leistungsbeschreibungen, die auf der Internetseite https://www.fliegner.de/ oder in ",
+      "bbox": [
+        70.824,
+        405.33399999999995,
+        500.1739999999999,
+        417.33399999999995
+      ]
+    },
+    {
+      "rows": "sonstigen Werbematerialien dargestellt sind, stellen kein rechtlich bindendes Angebot ",
+      "bbox": [
+        70.824,
+        422.37399999999997,
+        515.6040000000002,
+        434.37399999999997
+      ]
+    },
+    {
+      "rows": "dar, sondern dienen lediglich der Information.  ",
+      "bbox": [
+        70.824,
+        439.294,
+        307.76599999999996,
+        451.294
+      ]
+    },
+    {
+      "rows": "3. Vertragsschluss  ",
+      "bbox": [
+        70.824,
+        464.70928,
+        189.86012,
+        478.74927999999994
+      ]
+    },
+    {
+      "rows": "Ein Vertrag kommt durch die Annahme eines Angebots der Kreusel KGaA durch den ",
+      "bbox": [
+        70.824,
+        492.094,
+        498.396,
+        504.094
+      ]
+    },
+    {
+      "rows": "Kunden zustande. Angebote der Kreusel KGaA sind freibleibend und unverbindlich. Ein ",
+      "bbox": [
+        70.824,
+        509.01399999999995,
+        515.7000000000004,
+        521.0139999999999
+      ]
+    },
+    {
+      "rows": "verbindlicher Vertrag kommt erst durch eine schriftliche Auftragsbestätigung oder den ",
+      "bbox": [
+        70.824,
+        525.934,
+        513.0240000000001,
+        537.934
+      ]
+    },
+    {
+      "rows": "Beginn der Leistungserbringung zustande. Die Vertragsabwicklung erfolgt in der Regel ",
+      "bbox": [
+        70.824,
+        542.9739999999999,
+        510.11600000000004,
+        554.9739999999999
+      ]
+    },
+    {
+      "rows": "über die Kommunikation per E-Mail an hans-willivollbrecht@yahoo.de oder telefonisch ",
+      "bbox": [
+        70.824,
+        559.924,
+        518.354,
+        571.924
+      ]
+    },
+    {
+      "rows": "unter +49(0)6695 164946. Die Kreusel KGaA behält sich vor, einzelne Angebote ",
+      "bbox": [
+        70.824,
+        576.9639999999999,
+        475.40400000000017,
+        588.9639999999999
+      ]
+    },
+    {
+      "rows": "abzulehnen, insbesondere wenn begründete Zweifel an der Bonität oder der ",
+      "bbox": [
+        70.824,
+        593.884,
+        461.79200000000003,
+        605.884
+      ]
+    },
+    {
+      "rows": "tatsächlichen Absicht zur Beauftragung bestehen.  ",
+      "bbox": [
+        70.824,
+        610.804,
+        329.986,
+        622.804
+      ]
+    },
+    {
+      "rows": "4. Preise und Zahlungsbedingungen  ",
+      "bbox": [
+        70.824,
+        636.21928,
+        298.58012,
+        650.25928
+      ]
+    },
+    {
+      "rows": "Alle Preise verstehen sich netto, zuzüglich der jeweils gültigen gesetzlichen ",
+      "bbox": [
+        70.824,
+        663.604,
+        457.152,
+        675.604
+      ]
+    },
+    {
+      "rows": "Umsatzsteuer, sofern nicht ausdrücklich anders angegeben. Die Abrechnung erfolgt ",
+      "bbox": [
+        70.824,
+        680.5239999999999,
+        503.1000000000002,
+        692.5239999999999
+      ]
+    },
+    {
+      "rows": "gemäß den vertraglich vereinbarten Zahlungsmodalitäten. Sofern nicht anders ",
+      "bbox": [
+        70.824,
+        697.564,
+        473.71200000000005,
+        709.564
+      ]
+    },
+    {
+      "rows": "vereinbart, sind Rechnungen innerhalb von 14 Tagen nach Zugang ohne Abzug zur ",
+      "bbox": [
+        70.824,
+        714.4839999999999,
+        490.07599999999996,
+        726.4839999999999
+      ]
+    },
+    {
+      "rows": "Zahlung fällig. Bei Zahlungsverzug ist die Kreusel KGaA berechtigt, Verzugszinsen in ",
+      "bbox": [
+        70.824,
+        731.544,
+        498.16799999999995,
+        743.544
+      ]
+    },
+    {
+      "rows": "gesetzlicher Höhe zu berechnen sowie etwaige Mahnkosten geltend zu machen. Die ",
+      "bbox": [
+        70.824,
+        748.4639999999999,
+        503.62800000000016,
+        760.4639999999999
+      ]
+    },
+    {
+      "rows": "Geltendmachung weiterer Schäden bleibt ausdrücklich vorbehalten.   ",
+      "bbox": [
+        70.824,
+        765.384,
+        428.02599999999995,
+        777.384
+      ]
+    }
+  ]
+}
