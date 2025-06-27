@@ -1,0 +1,462 @@
+{
+  "document_id": "png_82",
+  "entities": [
+    {
+      "type": "LOC",
+      "text": "Henkallee",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Ueckermünde",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "PER",
+      "text": "Sylvana Mosemann",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Cäcilie-Kallert-Allee",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Ueckermünde",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "PER",
+      "text": "Sylvana Mosemann",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Ueckermünde",
+      "confidence": 0.999,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Jörn-Boucsein-Allee",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Wolgast",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Dehmelweg",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "PER",
+      "text": "florianmueller",
+      "confidence": 0.986,
+      "source": "flair_ner"
+    },
+    {
+      "type": "ORG",
+      "text": "web.de",
+      "confidence": 0.997,
+      "source": "flair_ner"
+    },
+    {
+      "type": "PER",
+      "text": "Juliane Baum-Stadelmann",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Henkallee",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Ueckermünde",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "Datum",
+      "text": "11.02.2025",
+      "confidence": 1.0,
+      "source": "regex"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "section_header",
+      "text": "Jugendamt",
+      "bbox": [
+        435,
+        5912,
+        908,
+        6015
+      ],
+      "confidence": 1.0,
+      "source": "layout"
+    },
+    {
+      "type": "section_header",
+      "text": "Jugendamt",
+      "bbox": [
+        3056,
+        607,
+        3535,
+        709
+      ],
+      "confidence": 1.0,
+      "source": "layout"
+    },
+    {
+      "type": "section_header",
+      "text": ". Fragen und Anregungen der Bürger",
+      "bbox": [
+        598,
+        4692,
+        2266,
+        4794
+      ],
+      "confidence": 0.976,
+      "source": "layout"
+    },
+    {
+      "type": "text",
+      "text": "Jugendamt",
+      "bbox": [
+        3056,
+        607,
+        3535,
+        709
+      ],
+      "confidence": 0.9997842311859131
+    },
+    {
+      "type": "text",
+      "text": "Henkallee 865",
+      "bbox": [
+        3056,
+        731,
+        3595,
+        833
+      ],
+      "confidence": 0.9999107718467712
+    },
+    {
+      "type": "text",
+      "text": "43043 Ueckermünde",
+      "bbox": [
+        3048,
+        847,
+        3824,
+        965
+      ],
+      "confidence": 0.9930226802825928
+    },
+    {
+      "type": "text",
+      "text": "Telefon: +49 (o) 4544 187707",
+      "bbox": [
+        3048,
+        971,
+        4127,
+        1089
+      ],
+      "confidence": 0.9849976301193237
+    },
+    {
+      "type": "text",
+      "text": "Dr. Sylvana Mosemann",
+      "bbox": [
+        428,
+        1439,
+        1277,
+        1550
+      ],
+      "confidence": 0.9811515808105469
+    },
+    {
+      "type": "text",
+      "text": "Cäcilie-Kallert-Allee 612",
+      "bbox": [
+        428,
+        1564,
+        1307,
+        1674
+      ],
+      "confidence": 0.970797061920166
+    },
+    {
+      "type": "text",
+      "text": "84758 Fl8ha",
+      "bbox": [
+        435,
+        1710,
+        886,
+        1791
+      ],
+      "confidence": 0.9611190557479858
+    },
+    {
+      "type": "text",
+      "text": "Telefon: (05131) 46468",
+      "bbox": [
+        428,
+        1951,
+        1277,
+        2054
+      ],
+      "confidence": 0.978850781917572
+    },
+    {
+      "type": "text",
+      "text": "11.02.2025",
+      "bbox": [
+        435,
+        2426,
+        886,
+        2529
+      ],
+      "confidence": 0.9999843835830688
+    },
+    {
+      "type": "text",
+      "text": "Betreff: Einladung zur Bürgerversammlung in Ueckermünde",
+      "bbox": [
+        435,
+        2667,
+        2982,
+        2777
+      ],
+      "confidence": 0.9969218373298645
+    },
+    {
+      "type": "text",
+      "text": "Sehr geehrte/r Dr. Sylvana Mosemann,",
+      "bbox": [
+        428,
+        2901,
+        1964,
+        3041
+      ],
+      "confidence": 0.9962303638458252
+    },
+    {
+      "type": "text",
+      "text": "wir laden Sie herzlich zur nächsten Bürgerversammlung ein, um über wichtige Themen in",
+      "bbox": [
+        435,
+        3172,
+        4008,
+        3267
+      ],
+      "confidence": 0.9865952730178833
+    },
+    {
+      "type": "text",
+      "text": "Ueckermünde zu informieren und mit Ihnen ins Gespräch zu kommen.",
+      "bbox": [
+        428,
+        3281,
+        3218,
+        3391
+      ],
+      "confidence": 0.9819018840789795
+    },
+    {
+      "type": "text",
+      "text": "Datum: 12.06.2025",
+      "bbox": [
+        435,
+        3537,
+        1225,
+        3632
+      ],
+      "confidence": 0.9999159574508667
+    },
+    {
+      "type": "text",
+      "text": "Ort: Jörn-Boucsein-Allee 16, 55430 Wolgast",
+      "bbox": [
+        435,
+        3661,
+        2214,
+        3764
+      ],
+      "confidence": 0.9884763360023499
+    },
+    {
+      "type": "text",
+      "text": "Uhrzeit: 13:00 Uhr",
+      "bbox": [
+        435,
+        3778,
+        1210,
+        3881
+      ],
+      "confidence": 0.999627947807312
+    },
+    {
+      "type": "text",
+      "text": "Themen der Versammlung:",
+      "bbox": [
+        428,
+        4012,
+        1728,
+        4152
+      ],
+      "confidence": 0.9997701048851013
+    },
+    {
+      "type": "text",
+      "text": "Neugestaltung des Stadtparks",
+      "bbox": [
+        731,
+        4297,
+        1993,
+        4400
+      ],
+      "confidence": 0.9998094439506531
+    },
+    {
+      "type": "text",
+      "text": "Verkehrsberuhigung in Dehmelweg",
+      "bbox": [
+        649,
+        4407,
+        2244,
+        4546
+      ],
+      "confidence": 0.9979442954063416
+    },
+    {
+      "type": "text",
+      "text": "Geplante Bauprojekte",
+      "bbox": [
+        650,
+        4560,
+        1675,
+        4663
+      ],
+      "confidence": 0.9799811244010925
+    },
+    {
+      "type": "text",
+      "text": ". Fragen und Anregungen der Bürger",
+      "bbox": [
+        598,
+        4692,
+        2266,
+        4794
+      ],
+      "confidence": 0.9759908318519592
+    },
+    {
+      "type": "text",
+      "text": "Wir freuen uns auf Ihre Teilnahme! Bitte geben Sie uns eine kurze Rückmeldung unter",
+      "bbox": [
+        443,
+        4926,
+        3816,
+        5036
+      ],
+      "confidence": 0.9937742352485657
+    },
+    {
+      "type": "text",
+      "text": "florianmueller@web.de oder +49 (0) 4544 187707, falls Sie teilnehmen möchten.",
+      "bbox": [
+        443,
+        5057,
+        3602,
+        5160
+      ],
+      "confidence": 0.9898552894592285
+    },
+    {
+      "type": "text",
+      "text": "Mit freundlichen Grünen",
+      "bbox": [
+        435,
+        5291,
+        1402,
+        5394
+      ],
+      "confidence": 0.9854340553283691
+    },
+    {
+      "type": "text",
+      "text": "Juliane Baum-Stadelmann",
+      "bbox": [
+        435,
+        5539,
+        1454,
+        5650
+      ],
+      "confidence": 0.9986118674278259
+    },
+    {
+      "type": "text",
+      "text": "Leiter/in Katasteramt",
+      "bbox": [
+        427,
+        5656,
+        1270,
+        5774
+      ],
+      "confidence": 0.9835659265518188
+    },
+    {
+      "type": "text",
+      "text": "Jugendamt",
+      "bbox": [
+        435,
+        5912,
+        908,
+        6015
+      ],
+      "confidence": 0.9996867775917053
+    },
+    {
+      "type": "text",
+      "text": "Henkallee 865",
+      "bbox": [
+        435,
+        6037,
+        996,
+        6139
+      ],
+      "confidence": 0.9998756647109985
+    },
+    {
+      "type": "text",
+      "text": "43043 Ueckermünde",
+      "bbox": [
+        435,
+        6154,
+        1255,
+        6256
+      ],
+      "confidence": 0.9964776635169983
+    }
+  ],
+  "metadata": {
+    "created_at": "2025-06-27T12:42:38.552718Z",
+    "pipeline_version": "v1.0"
+  }
+}

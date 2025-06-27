@@ -1,0 +1,794 @@
+{
+  "document_id": "scan300_30",
+  "entities": [
+    {
+      "type": "ORG",
+      "text": "AN",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "PER",
+      "text": "Erdogan",
+      "confidence": 0.993,
+      "source": "flair_ner"
+    },
+    {
+      "type": "PER",
+      "text": "Gehringer",
+      "confidence": 0.985,
+      "source": "flair_ner"
+    },
+    {
+      "type": "ORG",
+      "text": "Börner e.V",
+      "confidence": 0.852,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Rohtstr",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Neustadt",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Rübenberge",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "ZAHLUngSBEDINGUNgEN",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "PER",
+      "text": "Jens Gunpf",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "MISC",
+      "text": "EINZELPREIS",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "ORG",
+      "text": "MGE",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "MISC",
+      "text": "EURO",
+      "confidence": 0.997,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "MEMRWERTSTEUER",
+      "confidence": 0.837,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "GESAMTSUMME",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "PER",
+      "text": "ANCREATE",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "Datum",
+      "text": "04.06.2025",
+      "confidence": 1.0,
+      "source": "regex"
+    },
+    {
+      "type": "Datum",
+      "text": "14.01.2025",
+      "confidence": 1.0,
+      "source": "regex"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "section_header",
+      "text": "KUNDEN-ID:",
+      "bbox": [
+        568,
+        1696,
+        1019,
+        1776
+      ],
+      "confidence": 0.741,
+      "source": "layout"
+    },
+    {
+      "type": "section_header",
+      "text": "MGE BESCHREIBUNG",
+      "bbox": [
+        878,
+        2711,
+        1705,
+        2799
+      ],
+      "confidence": 0.806,
+      "source": "layout"
+    },
+    {
+      "type": "text",
+      "text": "RECHNUNG",
+      "bbox": [
+        568,
+        738,
+        2214,
+        965
+      ],
+      "confidence": 0.9968153238296509
+    },
+    {
+      "type": "text",
+      "text": "AN:",
+      "bbox": [
+        3052,
+        1115,
+        3222,
+        1223
+      ],
+      "confidence": 0.8792998194694519
+    },
+    {
+      "type": "text",
+      "text": "Erdogan Gehringer",
+      "bbox": [
+        3742,
+        1118,
+        4488,
+        1213
+      ],
+      "confidence": 0.9977523684501648
+    },
+    {
+      "type": "text",
+      "text": "DATUM:",
+      "bbox": [
+        561,
+        1155,
+        856,
+        1235
+      ],
+      "confidence": 0.9863174557685852
+    },
+    {
+      "type": "text",
+      "text": "Börner e.V.",
+      "bbox": [
+        4060,
+        1220,
+        4488,
+        1301
+      ],
+      "confidence": 0.9502004384994507
+    },
+    {
+      "type": "text",
+      "text": "04.06.2025",
+      "bbox": [
+        554,
+        1250,
+        974,
+        1330
+      ],
+      "confidence": 0.9999702572822571
+    },
+    {
+      "type": "text",
+      "text": "Rohtstr. 12",
+      "bbox": [
+        4082,
+        1316,
+        4488,
+        1396
+      ],
+      "confidence": 0.999222993850708
+    },
+    {
+      "type": "text",
+      "text": "RECHnung nR.",
+      "bbox": [
+        554,
+        1411,
+        1144,
+        1506
+      ],
+      "confidence": 0.6938439011573792
+    },
+    {
+      "type": "text",
+      "text": "17972 Neustadt am",
+      "bbox": [
+        3750,
+        1411,
+        4495,
+        1506
+      ],
+      "confidence": 0.9966566562652588
+    },
+    {
+      "type": "text",
+      "text": "Rübenberge",
+      "bbox": [
+        3992,
+        1490,
+        4496,
+        1609
+      ],
+      "confidence": 0.9693208932876587
+    },
+    {
+      "type": "text",
+      "text": "r-85055621",
+      "bbox": [
+        561,
+        1513,
+        974,
+        1593
+      ],
+      "confidence": 0.999852180480957
+    },
+    {
+      "type": "text",
+      "text": "+49 (0) 3191 329879",
+      "bbox": [
+        3735,
+        1608,
+        4495,
+        1703
+      ],
+      "confidence": 0.9944236874580383
+    },
+    {
+      "type": "text",
+      "text": "KUNDEN-ID:",
+      "bbox": [
+        568,
+        1696,
+        1019,
+        1776
+      ],
+      "confidence": 0.7411231398582458
+    },
+    {
+      "type": "text",
+      "text": "{id1}}r-85055621",
+      "bbox": [
+        575,
+        1760,
+        1234,
+        1872
+      ],
+      "confidence": 0.982911229133606
+    },
+    {
+      "type": "text",
+      "text": "ZAHLUngSBEDINGUNgEN FALLIgKEItSDATUM",
+      "bbox": [
+        2738,
+        2177,
+        4510,
+        2295
+      ],
+      "confidence": 0.662259042263031
+    },
+    {
+      "type": "text",
+      "text": "AUFTRAG",
+      "bbox": [
+        1808,
+        2222,
+        2170,
+        2302
+      ],
+      "confidence": 0.8377817273139954
+    },
+    {
+      "type": "text",
+      "text": "VERKAUFEN",
+      "bbox": [
+        568,
+        2236,
+        1004,
+        2317
+      ],
+      "confidence": 0.9937536716461182
+    },
+    {
+      "type": "text",
+      "text": "14.01.2025",
+      "bbox": [
+        3794,
+        2368,
+        4207,
+        2470
+      ],
+      "confidence": 0.999900221824646
+    },
+    {
+      "type": "text",
+      "text": "Fällig bei Erhalt",
+      "bbox": [
+        2723,
+        2375,
+        3352,
+        2485
+      ],
+      "confidence": 0.9470235109329224
+    },
+    {
+      "type": "text",
+      "text": "Jens Gunpf B.Eng.",
+      "bbox": [
+        576,
+        2412,
+        1270,
+        2507
+      ],
+      "confidence": 0.9746530055999756
+    },
+    {
+      "type": "text",
+      "text": "Verkauf",
+      "bbox": [
+        1786,
+        2404,
+        2118,
+        2485
+      ],
+      "confidence": 0.9672501683235168
+    },
+    {
+      "type": "text",
+      "text": "EINZELPREIS IN",
+      "bbox": [
+        3366,
+        2682,
+        3934,
+        2770
+      ],
+      "confidence": 0.7096690535545349
+    },
+    {
+      "type": "text",
+      "text": "ZEILENSUMME",
+      "bbox": [
+        3956,
+        2675,
+        4502,
+        2755
+      ],
+      "confidence": 0.9624324440956116
+    },
+    {
+      "type": "text",
+      "text": "MGE",
+      "bbox": [
+        878,
+        2719,
+        1070,
+        2799
+      ],
+      "confidence": 0.9175532460212708
+    },
+    {
+      "type": "text",
+      "text": "BESCHREIBUNG",
+      "bbox": [
+        1122,
+        2711,
+        1705,
+        2784
+      ],
+      "confidence": 0.6949021816253662
+    },
+    {
+      "type": "text",
+      "text": "EURO",
+      "bbox": [
+        3690,
+        2763,
+        3919,
+        2865
+      ],
+      "confidence": 0.7904354333877563
+    },
+    {
+      "type": "text",
+      "text": "In eurO",
+      "bbox": [
+        4185,
+        2755,
+        4517,
+        2858
+      ],
+      "confidence": 0.7113826870918274
+    },
+    {
+      "type": "text",
+      "text": "3972.49",
+      "bbox": [
+        3609,
+        2931,
+        3912,
+        3033
+      ],
+      "confidence": 0.9999362826347351
+    },
+    {
+      "type": "text",
+      "text": "9586.65",
+      "bbox": [
+        4215,
+        2938,
+        4517,
+        3018
+      ],
+      "confidence": 0.9999507665634155
+    },
+    {
+      "type": "text",
+      "text": "55",
+      "bbox": [
+        960,
+        2960,
+        1151,
+        3070
+      ],
+      "confidence": 0.9986611604690552
+    },
+    {
+      "type": "text",
+      "text": "Lautsprecher",
+      "bbox": [
+        1129,
+        2974,
+        1646,
+        3055
+      ],
+      "confidence": 0.9977434277534485
+    },
+    {
+      "type": "text",
+      "text": "7274.42",
+      "bbox": [
+        4207,
+        3165,
+        4525,
+        3267
+      ],
+      "confidence": 0.9999681115150452
+    },
+    {
+      "type": "text",
+      "text": "5907.05",
+      "bbox": [
+        3617,
+        3179,
+        3919,
+        3260
+      ],
+      "confidence": 0.9999657869338989
+    },
+    {
+      "type": "text",
+      "text": "59",
+      "bbox": [
+        967,
+        3208,
+        1070,
+        3296
+      ],
+      "confidence": 0.9998505115509033
+    },
+    {
+      "type": "text",
+      "text": "Telefonrechnung",
+      "bbox": [
+        1129,
+        3201,
+        1794,
+        3304
+      ],
+      "confidence": 0.9710371494293213
+    },
+    {
+      "type": "text",
+      "text": "7274.42",
+      "bbox": [
+        4198,
+        3389,
+        4527,
+        3510
+      ],
+      "confidence": 0.9999052882194519
+    },
+    {
+      "type": "text",
+      "text": "5907.05",
+      "bbox": [
+        3624,
+        3420,
+        3919,
+        3501
+      ],
+      "confidence": 0.9999369382858276
+    },
+    {
+      "type": "text",
+      "text": "59Auto",
+      "bbox": [
+        960,
+        3435,
+        1343,
+        3537
+      ],
+      "confidence": 0.9502518773078918
+    },
+    {
+      "type": "text",
+      "text": "3366.75",
+      "bbox": [
+        3617,
+        3654,
+        3934,
+        3756
+      ],
+      "confidence": 0.9999701380729675
+    },
+    {
+      "type": "text",
+      "text": "3366.75",
+      "bbox": [
+        4215,
+        3647,
+        4532,
+        3749
+      ],
+      "confidence": 0.9999679327011108
+    },
+    {
+      "type": "text",
+      "text": "13",
+      "bbox": [
+        974,
+        3691,
+        1078,
+        3778
+      ],
+      "confidence": 0.9997521638870239
+    },
+    {
+      "type": "text",
+      "text": "Projektor",
+      "bbox": [
+        1063,
+        3683,
+        1498,
+        3786
+      ],
+      "confidence": 0.9989287853240967
+    },
+    {
+      "type": "text",
+      "text": "5907.05",
+      "bbox": [
+        3617,
+        3895,
+        3934,
+        3998
+      ],
+      "confidence": 0.999923825263977
+    },
+    {
+      "type": "text",
+      "text": "4249.65",
+      "bbox": [
+        4229,
+        3895,
+        4525,
+        3976
+      ],
+      "confidence": 0.9999383091926575
+    },
+    {
+      "type": "text",
+      "text": "61",
+      "bbox": [
+        967,
+        3932,
+        1078,
+        4020
+      ],
+      "confidence": 0.9127671718597412
+    },
+    {
+      "type": "text",
+      "text": "Drucker",
+      "bbox": [
+        1129,
+        3939,
+        1461,
+        4020
+      ],
+      "confidence": 0.9672879576683044
+    },
+    {
+      "type": "text",
+      "text": "ZWISCHENSUMME",
+      "bbox": [
+        3270,
+        5087,
+        3941,
+        5182
+      ],
+      "confidence": 0.9065331816673279
+    },
+    {
+      "type": "text",
+      "text": "568.39 E",
+      "bbox": [
+        4215,
+        5087,
+        4539,
+        5167
+      ],
+      "confidence": 0.9377731680870056
+    },
+    {
+      "type": "text",
+      "text": "19,00",
+      "bbox": [
+        4325,
+        5313,
+        4554,
+        5415
+      ],
+      "confidence": 0.9867959022521973
+    },
+    {
+      "type": "text",
+      "text": "MEMRWERTSTEUER",
+      "bbox": [
+        3277,
+        5328,
+        3941,
+        5423
+      ],
+      "confidence": 0.9650583267211914
+    },
+    {
+      "type": "text",
+      "text": "GESAMTSUMME",
+      "bbox": [
+        3285,
+        5569,
+        3875,
+        5664
+      ],
+      "confidence": 0.9591104388237
+    },
+    {
+      "type": "text",
+      "text": "291.86 €",
+      "bbox": [
+        4222,
+        5562,
+        4554,
+        5642
+      ],
+      "confidence": 0.9929312467575073
+    },
+    {
+      "type": "text",
+      "text": "ALLE SCHECKS AUSZAHLBAR ANCREATE & CO",
+      "bbox": [
+        1815,
+        5963,
+        3337,
+        6059
+      ],
+      "confidence": 0.9811033010482788
+    },
+    {
+      "type": "text",
+      "text": "Vielen Dank für ihren Auftrag!",
+      "bbox": [
+        2015,
+        6051,
+        3152,
+        6139
+      ],
+      "confidence": 0.9645379781723022
+    },
+    {
+      "type": "text",
+      "text": "329879",
+      "bbox": [
+        2473,
+        6431,
+        2716,
+        6504
+      ],
+      "confidence": 0.9995149970054626
+    },
+    {
+      "type": "table",
+      "header": [
+        "EURO",
+        "In eurO"
+      ],
+      "rows": [
+        [
+          "3972.49",
+          "9586.65"
+        ]
+      ],
+      "id": null,
+      "bbox": [
+        3609,
+        2755,
+        4517,
+        3033
+      ],
+      "score": 0.7387,
+      "has_header": true
+    },
+    {
+      "type": "table",
+      "header": [
+        "col_0",
+        "col_1"
+      ],
+      "rows": [
+        [
+          "ZWISCHENSUMME",
+          "568.39 E"
+        ],
+        [
+          "MEMRWERTSTEUER",
+          "19,00"
+        ],
+        [
+          "GESAMTSUMME",
+          "291.86 €"
+        ]
+      ],
+      "id": null,
+      "bbox": [
+        3270,
+        5087,
+        4554,
+        5664
+      ],
+      "score": 0.7387,
+      "has_header": false
+    }
+  ],
+  "metadata": {
+    "created_at": "2025-06-27T13:13:15.535071Z",
+    "pipeline_version": "v1.0"
+  }
+}

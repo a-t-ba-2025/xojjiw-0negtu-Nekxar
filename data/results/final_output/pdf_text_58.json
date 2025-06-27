@@ -1,0 +1,1001 @@
+{
+  "document_id": "pdf_text_58",
+  "entities": [
+    {
+      "type": "PER",
+      "text": "looskarl-josef",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "ORG",
+      "text": "googlemail.com",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "ORG",
+      "text": "Biggen Wilmsen GmbH",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Steinbergstraße",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Freudenstadt",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "PER",
+      "text": "Frederike Sorgatz",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Weitzelstraße",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Anklam",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "PER",
+      "text": "Antonios Steuer-Weitzel",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Guteplatz",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Hagenow",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "MISC",
+      "text": "€",
+      "confidence": 0.998,
+      "source": "flair_ner"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "title",
+      "text": "g",
+      "bbox": [
+        50.74367316427968,
+        214.89272107889406,
+        81.70367408106719,
+        235.72879971665407
+      ],
+      "confidence": 0.0,
+      "source": "layout"
+    },
+    {
+      "type": "section_header",
+      "text": "24.01.2025",
+      "bbox": [
+        108.02,
+        144.89167999999995,
+        161.2088,
+        154.85168
+      ],
+      "confidence": 0.0,
+      "source": "layout"
+    },
+    {
+      "type": "section_header",
+      "text": "An",
+      "bbox": [
+        186.14,
+        144.89167999999995,
+        202.39880000000002,
+        154.85168
+      ],
+      "confidence": 0.0,
+      "source": "layout"
+    },
+    {
+      "type": "section_header",
+      "text": "Lieferadresse",
+      "bbox": [
+        377.83,
+        144.89167999999995,
+        455.4088,
+        154.85168
+      ],
+      "confidence": 0.0,
+      "source": "layout"
+    },
+    {
+      "type": "section_header",
+      "text": "Vielen Dank für Ihre Bestellung!",
+      "bbox": [
+        370.75,
+        655.3163199999999,
+        537.27808,
+        666.35632
+      ],
+      "confidence": 0.0,
+      "source": "layout"
+    },
+    {
+      "type": "text",
+      "text": "Tel:",
+      "bbox": [
+        108.02,
+        60.408000000000015,
+        122.02399999999999,
+        69.40800000000002
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "+49(0) 275486026",
+      "bbox": [
+        122.06,
+        59.66052000000002,
+        198.26000000000002,
+        69.62052000000006
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "E-Mail:",
+      "bbox": [
+        252.41,
+        60.408000000000015,
+        283.214,
+        69.40800000000002
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "looskarl-josef@googlemail.com ",
+      "bbox": [
+        283.25,
+        59.66052000000002,
+        408.16,
+        69.62052000000006
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Fax:",
+      "bbox": [
+        108.02,
+        46.72799999999995,
+        127.78399999999999,
+        55.72799999999995
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "03932 22736",
+      "bbox": [
+        127.82,
+        45.980519999999956,
+        179.75,
+        55.94051999999999
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Internet:",
+      "bbox": [
+        252.41,
+        46.72799999999995,
+        288.464,
+        55.72799999999995
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "http://www.jungfer.net/",
+      "bbox": [
+        288.53,
+        45.980519999999956,
+        390.64,
+        55.94051999999999
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "R",
+      "bbox": [
+        50.74367917312031,
+        471.6700002833459,
+        81.70367999999999,
+        490.46271892110593
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "e",
+      "bbox": [
+        50.74367828766431,
+        490.4627202833459,
+        81.7036791731203,
+        510.5867189211059
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "c",
+      "bbox": [
+        50.74367740629504,
+        510.5867202833459,
+        81.70367828766432,
+        530.6178389211059
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "h",
+      "bbox": [
+        50.743676575328635,
+        530.6178402833459,
+        81.70367740629503,
+        549.503438921106
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "n",
+      "bbox": [
+        50.743675744362235,
+        549.5034402833459,
+        81.70367657532863,
+        568.3890389211059
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "u",
+      "bbox": [
+        50.74367491612031,
+        568.3890402833459,
+        81.70367574436223,
+        587.212718921106
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "n",
+      "bbox": [
+        50.7436740810672,
+        587.3056002833459,
+        81.70367491203359,
+        606.191198921106
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "g",
+      "bbox": [
+        50.74367316427968,
+        606.1912002833459,
+        81.70367408106719,
+        627.0272789211059
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "8",
+      "bbox": [
+        50.743679245319036,
+        635.6200002833459,
+        81.70367999999999,
+        652.7718389211059
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "8",
+      "bbox": [
+        50.74367849063808,
+        652.7718402833459,
+        81.70367924531904,
+        669.9236789211059
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "8",
+      "bbox": [
+        50.743677735957114,
+        669.9236802833459,
+        81.70367849063807,
+        687.0755189211059
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "0",
+      "bbox": [
+        50.74367697582719,
+        687.199360283346,
+        81.70367773050815,
+        704.351198921106
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "1",
+      "bbox": [
+        50.74367621705952,
+        704.4440802833459,
+        81.70367697174048,
+        721.5959189211059
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "3",
+      "bbox": [
+        50.743675462378555,
+        721.5959202833459,
+        81.70367621705951,
+        738.7477589211059
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "8",
+      "bbox": [
+        50.7436747076976,
+        738.7477602833459,
+        81.70367546237856,
+        755.8995989211058
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "4",
+      "bbox": [
+        50.74367395301663,
+        755.899600283346,
+        81.70367470769759,
+        773.051438921106
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Biggen Wilmsen GmbH ",
+      "bbox": [
+        241.25,
+        738.6759999999999,
+        445.366,
+        756.6759999999999
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Steinbergstraße 73, 74815 Freudenstadt ",
+      "bbox": [
+        287.57,
+        724.3205200000001,
+        442.87,
+        734.28052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "24.01.2025",
+      "bbox": [
+        108.02,
+        687.06832,
+        161.2088,
+        697.02832
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "An",
+      "bbox": [
+        186.14,
+        687.06832,
+        202.39880000000002,
+        697.02832
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Lieferadresse",
+      "bbox": [
+        388.99,
+        687.06832,
+        455.4088,
+        697.02832
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Frederike Sorgatz ",
+      "bbox": [
+        186.14,
+        672.2405200000001,
+        256.94,
+        682.20052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Weitzelstraße 4 ",
+      "bbox": [
+        186.14,
+        660.9605200000001,
+        247.94,
+        670.92052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "14262 Anklam ",
+      "bbox": [
+        186.14,
+        649.80052,
+        245.18,
+        659.7605199999999
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Antonios Steuer-Weitzel ",
+      "bbox": [
+        388.99,
+        672.2405200000001,
+        486.43,
+        682.20052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Guteplatz 151 ",
+      "bbox": [
+        388.99,
+        660.9605200000001,
+        446.35,
+        670.92052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "57374 Hagenow ",
+      "bbox": [
+        388.99,
+        649.80052,
+        454.63,
+        659.7605199999999
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Menge",
+      "bbox": [
+        108.02,
+        517.05052,
+        136.79000000000002,
+        527.0105199999999
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Beschreibung",
+      "bbox": [
+        172.82,
+        517.05052,
+        227.9,
+        527.0105199999999
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Einzelpreis in Euro",
+      "bbox": [
+        343.03,
+        517.05052,
+        421.0,
+        527.0105199999999
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Summe in Euro",
+      "bbox": [
+        471.7,
+        517.05052,
+        535.75,
+        527.0105199999999
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "32",
+      "bbox": [
+        108.02,
+        498.57052,
+        119.86999999999999,
+        508.53052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Büromaterial",
+      "bbox": [
+        172.82,
+        498.57052,
+        225.62,
+        508.53052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "3404.15",
+      "bbox": [
+        388.15,
+        498.57052,
+        421.0,
+        508.53052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "581.96",
+      "bbox": [
+        507.58,
+        498.57052,
+        535.75,
+        508.53052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "50",
+      "bbox": [
+        108.02,
+        479.97051999999996,
+        119.86999999999999,
+        489.93052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Software",
+      "bbox": [
+        172.82,
+        479.97051999999996,
+        210.16748,
+        489.93052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Entwicklung",
+      "bbox": [
+        172.82,
+        468.81052,
+        224.54000000000002,
+        478.77052000000003
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "581.96",
+      "bbox": [
+        392.83,
+        479.97051999999996,
+        421.0,
+        489.93052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "9943.81",
+      "bbox": [
+        502.9,
+        479.97051999999996,
+        535.75,
+        489.93052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "62",
+      "bbox": [
+        108.02,
+        454.05052,
+        119.86999999999999,
+        464.01052000000004
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Software-Lizenzen",
+      "bbox": [
+        172.82,
+        454.05052,
+        238.58,
+        464.01052000000004
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "736.69",
+      "bbox": [
+        392.83,
+        454.05052,
+        421.0,
+        464.01052000000004
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "4413.96",
+      "bbox": [
+        502.9,
+        454.05052,
+        535.75,
+        464.01052000000004
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Zwischensumme",
+      "bbox": [
+        352.63,
+        287.47051999999996,
+        421.0,
+        297.43052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "192.32 €",
+      "bbox": [
+        500.5,
+        287.47051999999996,
+        533.23852,
+        297.43052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "MwSt",
+      "bbox": [
+        395.83,
+        268.96052,
+        421.0,
+        278.92052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "19 %",
+      "bbox": [
+        513.1,
+        268.96052,
+        535.75,
+        278.92052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Versandkosten",
+      "bbox": [
+        360.79,
+        250.48051999999996,
+        421.0,
+        260.44052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "804.31 €",
+      "bbox": [
+        500.5,
+        250.48051999999996,
+        533.23852,
+        260.44052
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Gesamtkosten fällig am",
+      "bbox": [
+        327.31,
+        232.00051999999994,
+        418.38912000000005,
+        241.96051999999997
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "17.02.2025",
+      "bbox": [
+        443.74,
+        232.00051999999994,
+        488.11,
+        241.96051999999997
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "text": "Vielen Dank für Ihre Bestellung!",
+      "bbox": [
+        370.75,
+        175.56367999999998,
+        537.27808,
+        186.60368000000005
+      ],
+      "confidence": 1.0
+    },
+    {
+      "type": "table",
+      "header": [
+        "col_0",
+        "col_1",
+        "col_2"
+      ],
+      "rows": [
+        [
+          " ",
+          "Frederike Sorgatz ",
+          "  Antonios Steuer-Weitzel "
+        ],
+        [
+          "14262 Anklam ",
+          "57374 Hagenow "
+        ]
+      ],
+      "id": null,
+      "bbox": [
+        108.02,
+        159.71947999999998,
+        486.43,
+        192.11947999999995
+      ],
+      "score": null,
+      "has_header": false
+    },
+    {
+      "type": "table",
+      "header": [
+        "col_0",
+        "col_1",
+        "col_2",
+        "col_3"
+      ],
+      "rows": [
+        [
+          "32 ",
+          "Büromaterial ",
+          "3404.15 ",
+          "581.96 "
+        ],
+        [
+          "50 ",
+          "Software-",
+          "581.96 ",
+          "9943.81 "
+        ],
+        [
+          "62 ",
+          "Software-Lizenz ",
+          "736.69 ",
+          "4413.96 "
+        ]
+      ],
+      "id": null,
+      "bbox": [
+        108.02,
+        333.38947999999993,
+        535.75,
+        387.86947999999995
+      ],
+      "score": null,
+      "has_header": false
+    },
+    {
+      "type": "table",
+      "header": [
+        "col_0",
+        "col_1",
+        "col_2",
+        "col_3"
+      ],
+      "rows": [
+        [
+          " ",
+          " ",
+          " ",
+          " "
+        ],
+        [
+          " ",
+          " ",
+          " ",
+          " "
+        ],
+        [
+          " ",
+          " ",
+          " ",
+          " "
+        ],
+        [
+          " ",
+          " ",
+          " ",
+          " "
+        ],
+        [
+          " ",
+          " ",
+          " ",
+          " "
+        ],
+        [
+          " ",
+          " ",
+          " ",
+          " "
+        ],
+        [
+          " ",
+          " ",
+          " ",
+          " "
+        ],
+        [
+          " ",
+          " ",
+          " ",
+          " "
+        ],
+        [
+          " ",
+          " ",
+          "Zwischensumme ",
+          "192.32 €  "
+        ],
+        [
+          " ",
+          " ",
+          "MwSt ",
+          "19 % "
+        ],
+        [
+          " ",
+          " ",
+          "Versandkosten ",
+          "804.31 €  "
+        ],
+        [
+          " ",
+          " ",
+          "Gesamtkosten fällig am  ",
+          "17.02.2025 "
+        ]
+      ],
+      "id": null,
+      "bbox": [
+        108.02,
+        396.4094799999999,
+        535.75,
+        609.91948
+      ],
+      "score": null,
+      "has_header": false
+    },
+    {
+      "type": "table",
+      "header": [
+        "col_0",
+        "col_1",
+        "col_2"
+      ],
+      "rows": [
+        [
+          "looskarl-josef@googlemail.com  Tel:",
+          " +49(0) 275486026 ",
+          "E-Mail: "
+        ],
+        [
+          " http://www.jungfer.net/  Fax: ",
+          "03932 22736 ",
+          "Internet:"
+        ]
+      ],
+      "id": null,
+      "bbox": [
+        108.02,
+        772.2994799999999,
+        408.16,
+        795.93948
+      ],
+      "score": null,
+      "has_header": false
+    }
+  ],
+  "metadata": {
+    "created_at": "2025-06-27T12:23:13.588819Z",
+    "pipeline_version": "v1.0"
+  }
+}

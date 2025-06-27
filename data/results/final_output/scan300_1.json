@@ -1,0 +1,921 @@
+{
+  "document_id": "scan300_1",
+  "entities": [
+    {
+      "type": "ORG",
+      "text": "Meister GmbH",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Virginia-Beer-Allee",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Oberviechtach",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "PER",
+      "text": "nermin73",
+      "confidence": 0.846,
+      "source": "flair_ner"
+    },
+    {
+      "type": "ORG",
+      "text": "maelzer.com",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "ORG",
+      "text": "AN",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "PER",
+      "text": "Marie-Luise Linke",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Aumann",
+      "confidence": 0.995,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Isabella-Wilms-Allee",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "ORG",
+      "text": "Bauer AG",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Kötzting",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Segebahnweg",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Böblingen",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "ORG",
+      "text": "mseidei",
+      "confidence": 0.873,
+      "source": "flair_ner"
+    },
+    {
+      "type": "ORG",
+      "text": "web.de",
+      "confidence": 0.999,
+      "source": "flair_ner"
+    },
+    {
+      "type": "ORG",
+      "text": "EINZELPRES",
+      "confidence": 0.999,
+      "source": "flair_ner"
+    },
+    {
+      "type": "MISC",
+      "text": "€",
+      "confidence": 0.976,
+      "source": "flair_ner"
+    },
+    {
+      "type": "MISC",
+      "text": "€",
+      "confidence": 0.976,
+      "source": "flair_ner"
+    },
+    {
+      "type": "MISC",
+      "text": "€",
+      "confidence": 0.989,
+      "source": "flair_ner"
+    },
+    {
+      "type": "MISC",
+      "text": "€",
+      "confidence": 0.989,
+      "source": "flair_ner"
+    },
+    {
+      "type": "MISC",
+      "text": "€",
+      "confidence": 0.949,
+      "source": "flair_ner"
+    },
+    {
+      "type": "PER",
+      "text": "MEHRWERTSTEUER",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "GESAMTSUMME",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "MISC",
+      "text": "€",
+      "confidence": 0.975,
+      "source": "flair_ner"
+    },
+    {
+      "type": "PER",
+      "text": "Ilona Klingelhöfer",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "PER",
+      "text": "nermin73",
+      "confidence": 0.927,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Aumann",
+      "confidence": 0.995,
+      "source": "flair_ner"
+    },
+    {
+      "type": "PER",
+      "text": "mseidel",
+      "confidence": 0.991,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "isabella-Wilms-Allee",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "LOC",
+      "text": "Kötzting",
+      "confidence": 1.0,
+      "source": "flair_ner"
+    },
+    {
+      "type": "Email",
+      "text": "nermin73@gmail.com",
+      "confidence": 1.0,
+      "source": "regex"
+    },
+    {
+      "type": "Email",
+      "text": "mseidel@hotmail.de",
+      "confidence": 1.0,
+      "source": "regex"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "section_header",
+      "text": "AN:",
+      "bbox": [
+        642,
+        1973,
+        790,
+        2054
+      ],
+      "confidence": 0.998,
+      "source": "layout"
+    },
+    {
+      "type": "section_header",
+      "text": "Vielen Dank für Ihre Bestellung!",
+      "bbox": [
+        1985,
+        5006,
+        3078,
+        5116
+      ],
+      "confidence": 0.985,
+      "source": "layout"
+    },
+    {
+      "type": "section_header",
+      "text": "Meister GmbH",
+      "bbox": [
+        722,
+        408,
+        2806,
+        681
+      ],
+      "confidence": 0.997,
+      "source": "layout"
+    },
+    {
+      "type": "text",
+      "text": " Meister GmbH",
+      "bbox": [
+        722,
+        408,
+        2806,
+        681
+      ],
+      "confidence": 0.9973396062850952
+    },
+    {
+      "type": "text",
+      "text": "Innovative 6thgeneration Utility",
+      "bbox": [
+        701,
+        716,
+        1787,
+        826
+      ],
+      "confidence": 0.9878629446029663
+    },
+    {
+      "type": "text",
+      "text": "Rechnung",
+      "bbox": [
+        788,
+        1102,
+        1397,
+        1259
+      ],
+      "confidence": 0.9563567638397217
+    },
+    {
+      "type": "text",
+      "text": "Virginia-Beer-Allee 13",
+      "bbox": [
+        634,
+        1454,
+        1396,
+        1565
+      ],
+      "confidence": 0.997706413269043
+    },
+    {
+      "type": "text",
+      "text": "Oberviechtach 25693",
+      "bbox": [
+        641,
+        1548,
+        1411,
+        1667
+      ],
+      "confidence": 0.9919986724853516
+    },
+    {
+      "type": "text",
+      "text": "RECHNUNG Nr. r-838986",
+      "bbox": [
+        2627,
+        1571,
+        3514,
+        1689
+      ],
+      "confidence": 0.9973019957542419
+    },
+    {
+      "type": "text",
+      "text": "Telefon +49(0) 456965684 l Fax +49(0)",
+      "bbox": [
+        642,
+        1637,
+        2052,
+        1747
+      ],
+      "confidence": 0.9725217819213867
+    },
+    {
+      "type": "text",
+      "text": "DATUM 02.01.2025",
+      "bbox": [
+        2635,
+        1681,
+        3336,
+        1776
+      ],
+      "confidence": 0.9996558427810669
+    },
+    {
+      "type": "text",
+      "text": "456965684",
+      "bbox": [
+        664,
+        1754,
+        1092,
+        1834
+      ],
+      "confidence": 0.9997502565383911
+    },
+    {
+      "type": "text",
+      "text": "nermin73@gmail.com I http://maelzer.com/",
+      "bbox": [
+        641,
+        1812,
+        2193,
+        1937
+      ],
+      "confidence": 0.9874258041381836
+    },
+    {
+      "type": "text",
+      "text": "LIEFERADRESSE:",
+      "bbox": [
+        2619,
+        1921,
+        3234,
+        2048
+      ],
+      "confidence": 0.9994279146194458
+    },
+    {
+      "type": "text",
+      "text": "AN:",
+      "bbox": [
+        642,
+        1973,
+        790,
+        2054
+      ],
+      "confidence": 0.9981071949005127
+    },
+    {
+      "type": "text",
+      "text": " Dipl.-Ing. Marie-Luise Linke",
+      "bbox": [
+        641,
+        2031,
+        1588,
+        2157
+      ],
+      "confidence": 0.9746536016464233
+    },
+    {
+      "type": "text",
+      "text": "Aumann",
+      "bbox": [
+        2642,
+        2046,
+        2938,
+        2127
+      ],
+      "confidence": 0.9823567271232605
+    },
+    {
+      "type": "text",
+      "text": "Isabella-Wilms-Allee 0",
+      "bbox": [
+        2641,
+        2104,
+        3389,
+        2223
+      ],
+      "confidence": 0.9783177971839905
+    },
+    {
+      "type": "text",
+      "text": "Bauer AG",
+      "bbox": [
+        657,
+        2141,
+        1004,
+        2244
+      ],
+      "confidence": 0.9997059106826782
+    },
+    {
+      "type": "text",
+      "text": "Kötzting 11086",
+      "bbox": [
+        2641,
+        2199,
+        3190,
+        2325
+      ],
+      "confidence": 0.9884974360466003
+    },
+    {
+      "type": "text",
+      "text": "Segebahnweg 7",
+      "bbox": [
+        657,
+        2236,
+        1203,
+        2317
+      ],
+      "confidence": 0.9891112446784973
+    },
+    {
+      "type": "text",
+      "text": "Telefon +49(0)6869 67088",
+      "bbox": [
+        2634,
+        2287,
+        3603,
+        2405
+      ],
+      "confidence": 0.9934822916984558
+    },
+    {
+      "type": "text",
+      "text": "Böblingen 79138",
+      "bbox": [
+        656,
+        2316,
+        1277,
+        2427
+      ],
+      "confidence": 0.9806317090988159
+    },
+    {
+      "type": "text",
+      "text": "E-Mail mseidei@hotmail.de",
+      "bbox": [
+        2634,
+        2382,
+        3580,
+        2493
+      ],
+      "confidence": 0.997356116771698
+    },
+    {
+      "type": "text",
+      "text": "Telefon +49(0) 687039145",
+      "bbox": [
+        656,
+        2404,
+        1632,
+        2522
+      ],
+      "confidence": 0.9997785687446594
+    },
+    {
+      "type": "text",
+      "text": "E-Mail dursunmisicher@web.de",
+      "bbox": [
+        657,
+        2499,
+        1742,
+        2609
+      ],
+      "confidence": 0.9993771314620972
+    },
+    {
+      "type": "text",
+      "text": "BEDINGUNGEN",
+      "bbox": [
+        3816,
+        2938,
+        4355,
+        3018
+      ],
+      "confidence": 0.9965390563011169
+    },
+    {
+      "type": "text",
+      "text": "FREl (an Bord)",
+      "bbox": [
+        3189,
+        2953,
+        3705,
+        3033
+      ],
+      "confidence": 0.9586811661720276
+    },
+    {
+      "type": "text",
+      "text": "ANFORDERER",
+      "bbox": [
+        1910,
+        2951,
+        2430,
+        3071
+      ],
+      "confidence": 0.9958032369613647
+    },
+    {
+      "type": "text",
+      "text": "VERSANDWEG",
+      "bbox": [
+        2561,
+        2967,
+        3056,
+        3048
+      ],
+      "confidence": 0.9964337348937988
+    },
+    {
+      "type": "text",
+      "text": "VERKAUFEN",
+      "bbox": [
+        648,
+        2966,
+        1108,
+        3085
+      ],
+      "confidence": 0.9533993601799011
+    },
+    {
+      "type": "text",
+      "text": "P.O.. NUMMER",
+      "bbox": [
+        1306,
+        2982,
+        1794,
+        3062
+      ],
+      "confidence": 0.8936713337898254
+    },
+    {
+      "type": "text",
+      "text": "PUNKT",
+      "bbox": [
+        3181,
+        3033,
+        3447,
+        3135
+      ],
+      "confidence": 0.7553382515907288
+    },
+    {
+      "type": "text",
+      "text": "Fällig bei Erhalt",
+      "bbox": [
+        3801,
+        3135,
+        4363,
+        3245
+      ],
+      "confidence": 0.9543716907501221
+    },
+    {
+      "type": "text",
+      "text": "EINZELPRES",
+      "bbox": [
+        2938,
+        3318,
+        3410,
+        3420
+      ],
+      "confidence": 0.9974061846733093
+    },
+    {
+      "type": "text",
+      "text": "SUMME",
+      "bbox": [
+        3690,
+        3311,
+        3986,
+        3413
+      ],
+      "confidence": 0.9842373728752136
+    },
+    {
+      "type": "text",
+      "text": "IMENGE",
+      "bbox": [
+        647,
+        3338,
+        962,
+        3466
+      ],
+      "confidence": 0.885699450969696
+    },
+    {
+      "type": "text",
+      "text": "BESCHREIBUNG",
+      "bbox": [
+        1424,
+        3332,
+        2008,
+        3443
+      ],
+      "confidence": 0.9475874304771423
+    },
+    {
+      "type": "text",
+      "text": "721.49 €",
+      "bbox": [
+        2915,
+        3479,
+        3299,
+        3581
+      ],
+      "confidence": 0.9792648553848267
+    },
+    {
+      "type": "text",
+      "text": "721.49 €",
+      "bbox": [
+        3674,
+        3455,
+        4054,
+        3575
+      ],
+      "confidence": 0.9686598777770996
+    },
+    {
+      "type": "text",
+      "text": "Büromaterial",
+      "bbox": [
+        1401,
+        3500,
+        1898,
+        3619
+      ],
+      "confidence": 0.9689884185791016
+    },
+    {
+      "type": "text",
+      "text": "1",
+      "bbox": [
+        650,
+        3510,
+        765,
+        3639
+      ],
+      "confidence": 0.9999512434005737
+    },
+    {
+      "type": "text",
+      "text": "560.41 €",
+      "bbox": [
+        2929,
+        3616,
+        3301,
+        3743
+      ],
+      "confidence": 0.9848712086677551
+    },
+    {
+      "type": "text",
+      "text": "560.41 €",
+      "bbox": [
+        3690,
+        3625,
+        4052,
+        3727
+      ],
+      "confidence": 0.9614468812942505
+    },
+    {
+      "type": "text",
+      "text": "2",
+      "bbox": [
+        664,
+        3676,
+        768,
+        3778
+      ],
+      "confidence": 0.9999322891235352
+    },
+    {
+      "type": "text",
+      "text": "Whiteboard",
+      "bbox": [
+        1401,
+        3653,
+        1854,
+        3772
+      ],
+      "confidence": 0.9997590184211731
+    },
+    {
+      "type": "text",
+      "text": "173.54 €",
+      "bbox": [
+        2945,
+        3786,
+        3299,
+        3888
+      ],
+      "confidence": 0.9952783584594727
+    },
+    {
+      "type": "text",
+      "text": "173.54 €",
+      "bbox": [
+        3690,
+        3778,
+        4060,
+        3881
+      ],
+      "confidence": 0.9801508188247681
+    },
+    {
+      "type": "text",
+      "text": "Büroklammern",
+      "bbox": [
+        1432,
+        3830,
+        1956,
+        3910
+      ],
+      "confidence": 0.9738906025886536
+    },
+    {
+      "type": "text",
+      "text": "3",
+      "bbox": [
+        645,
+        3811,
+        778,
+        3946
+      ],
+      "confidence": 0.9978834986686707
+    },
+    {
+      "type": "text",
+      "text": "ZWISCHENSUMME  610.74 €",
+      "bbox": [
+        2974,
+        3931,
+        4053,
+        4049
+      ],
+      "confidence": 0.954344630241394
+    },
+    {
+      "type": "text",
+      "text": "MEHRWERTSTEUER 19 %",
+      "bbox": [
+        2952,
+        4085,
+        3912,
+        4203
+      ],
+      "confidence": 0.9952101707458496
+    },
+    {
+      "type": "text",
+      "text": "VERPACKUNG UND VERSAND",
+      "bbox": [
+        2627,
+        4246,
+        3647,
+        4356
+      ],
+      "confidence": 0.9986993670463562
+    },
+    {
+      "type": "text",
+      "text": "GESAMTSUMME",
+      "bbox": [
+        3078,
+        4407,
+        3668,
+        4502
+      ],
+      "confidence": 0.9996145367622375
+    },
+    {
+      "type": "text",
+      "text": "355.16 €",
+      "bbox": [
+        3689,
+        4383,
+        4069,
+        4504
+      ],
+      "confidence": 0.991388201713562
+    },
+    {
+      "type": "text",
+      "text": "Alle Schecks auswählbar an Firmenname",
+      "bbox": [
+        656,
+        4662,
+        2045,
+        4773
+      ],
+      "confidence": 0.9836676120758057
+    },
+    {
+      "type": "text",
+      "text": "Wenden Sie sich mit Fragen zu dieser Rechnung an Ilona Klingelhöfer B.Eng., +49(0) 456965684,",
+      "bbox": [
+        649,
+        4721,
+        3972,
+        4875
+      ],
+      "confidence": 0.9803200960159302
+    },
+    {
+      "type": "text",
+      "text": "nermin73@gmail.com",
+      "bbox": [
+        664,
+        4860,
+        1418,
+        4963
+      ],
+      "confidence": 0.999502420425415
+    },
+    {
+      "type": "text",
+      "text": "Vielen Dank für Ihre Bestellung!",
+      "bbox": [
+        1985,
+        5006,
+        3078,
+        5116
+      ],
+      "confidence": 0.9853187799453735
+    },
+    {
+      "type": "text",
+      "text": "@",
+      "bbox": [
+        3971,
+        5949,
+        4089,
+        6051
+      ],
+      "confidence": 0.6882147192955017
+    },
+    {
+      "type": "text",
+      "text": "Aumann",
+      "bbox": [
+        590,
+        6314,
+        900,
+        6395
+      ],
+      "confidence": 0.9997642636299133
+    },
+    {
+      "type": "text",
+      "text": "mseidel@hotmail.de",
+      "bbox": [
+        3682,
+        6328,
+        4385,
+        6425
+      ],
+      "confidence": 0.9982964396476746
+    },
+    {
+      "type": "text",
+      "text": "+49(0)6869 67088",
+      "bbox": [
+        2303,
+        6358,
+        3004,
+        6453
+      ],
+      "confidence": 0.9896731376647949
+    },
+    {
+      "type": "text",
+      "text": "isabella-Wilms-Allee 0",
+      "bbox": [
+        582,
+        6372,
+        1351,
+        6491
+      ],
+      "confidence": 0.9949288964271545
+    },
+    {
+      "type": "text",
+      "text": "Kötzting 11086",
+      "bbox": [
+        582,
+        6475,
+        1152,
+        6585
+      ],
+      "confidence": 0.971348762512207
+    }
+  ],
+  "metadata": {
+    "created_at": "2025-06-27T13:04:35.407079Z",
+    "pipeline_version": "v1.0"
+  }
+}
